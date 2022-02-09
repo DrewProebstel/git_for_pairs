@@ -1,2 +1,2 @@
-p "diferent words here"
+p "new words here"
 x = 69
